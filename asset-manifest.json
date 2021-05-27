@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/innomationlive/static/css/main.57480815.chunk.css",
+    "main.css": "/innomationlive/static/css/main.0d2a76cf.chunk.css",
     "main.js": "/innomationlive/static/js/main.3b33759a.chunk.js",
     "main.js.map": "/innomationlive/static/js/main.3b33759a.chunk.js.map",
     "runtime-main.js": "/innomationlive/static/js/runtime-main.11242365.js",
@@ -8,7 +8,7 @@
     "static/js/2.661fba70.chunk.js": "/innomationlive/static/js/2.661fba70.chunk.js",
     "static/js/2.661fba70.chunk.js.map": "/innomationlive/static/js/2.661fba70.chunk.js.map",
     "index.html": "/innomationlive/index.html",
-    "static/css/main.57480815.chunk.css.map": "/innomationlive/static/css/main.57480815.chunk.css.map",
+    "static/css/main.0d2a76cf.chunk.css.map": "/innomationlive/static/css/main.0d2a76cf.chunk.css.map",
     "static/js/2.661fba70.chunk.js.LICENSE.txt": "/innomationlive/static/js/2.661fba70.chunk.js.LICENSE.txt",
     "static/media/1.5c135a3a.png": "/innomationlive/static/media/1.5c135a3a.png",
     "static/media/2.23b2c1d3.png": "/innomationlive/static/media/2.23b2c1d3.png",
@@ -47,7 +47,7 @@
   "entrypoints": [
     "static/js/runtime-main.11242365.js",
     "static/js/2.661fba70.chunk.js",
-    "static/css/main.57480815.chunk.css",
+    "static/css/main.0d2a76cf.chunk.css",
     "static/js/main.3b33759a.chunk.js"
   ]
 }
