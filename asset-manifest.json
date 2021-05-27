@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/innomationlive/static/css/main.b08ef22b.chunk.css",
-    "main.js": "/innomationlive/static/js/main.b0f3b5e4.chunk.js",
-    "main.js.map": "/innomationlive/static/js/main.b0f3b5e4.chunk.js.map",
+    "main.css": "/innomationlive/static/css/main.57480815.chunk.css",
+    "main.js": "/innomationlive/static/js/main.3b33759a.chunk.js",
+    "main.js.map": "/innomationlive/static/js/main.3b33759a.chunk.js.map",
     "runtime-main.js": "/innomationlive/static/js/runtime-main.11242365.js",
     "runtime-main.js.map": "/innomationlive/static/js/runtime-main.11242365.js.map",
-    "static/js/2.d2ef2c12.chunk.js": "/innomationlive/static/js/2.d2ef2c12.chunk.js",
-    "static/js/2.d2ef2c12.chunk.js.map": "/innomationlive/static/js/2.d2ef2c12.chunk.js.map",
+    "static/js/2.661fba70.chunk.js": "/innomationlive/static/js/2.661fba70.chunk.js",
+    "static/js/2.661fba70.chunk.js.map": "/innomationlive/static/js/2.661fba70.chunk.js.map",
     "index.html": "/innomationlive/index.html",
-    "static/css/main.b08ef22b.chunk.css.map": "/innomationlive/static/css/main.b08ef22b.chunk.css.map",
-    "static/js/2.d2ef2c12.chunk.js.LICENSE.txt": "/innomationlive/static/js/2.d2ef2c12.chunk.js.LICENSE.txt",
+    "static/css/main.57480815.chunk.css.map": "/innomationlive/static/css/main.57480815.chunk.css.map",
+    "static/js/2.661fba70.chunk.js.LICENSE.txt": "/innomationlive/static/js/2.661fba70.chunk.js.LICENSE.txt",
     "static/media/1.5c135a3a.png": "/innomationlive/static/media/1.5c135a3a.png",
     "static/media/2.23b2c1d3.png": "/innomationlive/static/media/2.23b2c1d3.png",
     "static/media/3.f6ef3a16.png": "/innomationlive/static/media/3.f6ef3a16.png",
+    "static/media/Hero.module.scss": "/innomationlive/static/media/Aboutus.d15b1d43.jpg",
     "static/media/Anmol.9852d0d1.png": "/innomationlive/static/media/Anmol.9852d0d1.png",
     "static/media/Automation.4a06440a.png": "/innomationlive/static/media/Automation.4a06440a.png",
     "static/media/Biobiscuit.a420a01e.png": "/innomationlive/static/media/Biobiscuit.a420a01e.png",
@@ -39,14 +40,14 @@
     "static/media/Sobisco.78ea004c.png": "/innomationlive/static/media/Sobisco.78ea004c.png",
     "static/media/ThirdParty.af4f91f9.png": "/innomationlive/static/media/ThirdParty.af4f91f9.png",
     "static/media/Training.c431e893.png": "/innomationlive/static/media/Training.c431e893.png",
-    "static/media/logo.bbe80de1.png": "/innomationlive/static/media/logo.bbe80de1.png",
+    "static/media/logo.86b19b22.jpg": "/innomationlive/static/media/logo.86b19b22.jpg",
     "static/media/phone-icon.f12b83b5.png": "/innomationlive/static/media/phone-icon.f12b83b5.png",
     "static/media/themify-icons.css": "/innomationlive/static/media/themify.eda8b943.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.11242365.js",
-    "static/js/2.d2ef2c12.chunk.js",
-    "static/css/main.b08ef22b.chunk.css",
-    "static/js/main.b0f3b5e4.chunk.js"
+    "static/js/2.661fba70.chunk.js",
+    "static/css/main.57480815.chunk.css",
+    "static/js/main.3b33759a.chunk.js"
   ]
 }
