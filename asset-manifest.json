@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/innomationlive/static/css/main.c850cdd7.chunk.css",
-    "main.js": "/innomationlive/static/js/main.a2233b0b.chunk.js",
-    "main.js.map": "/innomationlive/static/js/main.a2233b0b.chunk.js.map",
+    "main.css": "/innomationlive/static/css/main.45fef711.chunk.css",
+    "main.js": "/innomationlive/static/js/main.cf1d85c4.chunk.js",
+    "main.js.map": "/innomationlive/static/js/main.cf1d85c4.chunk.js.map",
     "runtime-main.js": "/innomationlive/static/js/runtime-main.11242365.js",
     "runtime-main.js.map": "/innomationlive/static/js/runtime-main.11242365.js.map",
-    "static/js/2.139a6fff.chunk.js": "/innomationlive/static/js/2.139a6fff.chunk.js",
-    "static/js/2.139a6fff.chunk.js.map": "/innomationlive/static/js/2.139a6fff.chunk.js.map",
+    "static/js/2.8e8d16cb.chunk.js": "/innomationlive/static/js/2.8e8d16cb.chunk.js",
+    "static/js/2.8e8d16cb.chunk.js.map": "/innomationlive/static/js/2.8e8d16cb.chunk.js.map",
     "index.html": "/innomationlive/index.html",
-    "static/css/main.c850cdd7.chunk.css.map": "/innomationlive/static/css/main.c850cdd7.chunk.css.map",
-    "static/js/2.139a6fff.chunk.js.LICENSE.txt": "/innomationlive/static/js/2.139a6fff.chunk.js.LICENSE.txt",
+    "static/css/main.45fef711.chunk.css.map": "/innomationlive/static/css/main.45fef711.chunk.css.map",
+    "static/js/2.8e8d16cb.chunk.js.LICENSE.txt": "/innomationlive/static/js/2.8e8d16cb.chunk.js.LICENSE.txt",
     "static/media/1.5c135a3a.png": "/innomationlive/static/media/1.5c135a3a.png",
     "static/media/2.23b2c1d3.png": "/innomationlive/static/media/2.23b2c1d3.png",
     "static/media/3.f6ef3a16.png": "/innomationlive/static/media/3.f6ef3a16.png",
@@ -27,7 +27,7 @@
     "static/media/Hul.638b73e4.png": "/innomationlive/static/media/Hul.638b73e4.png",
     "static/media/Itc.6ae43e0f.png": "/innomationlive/static/media/Itc.6ae43e0f.png",
     "static/media/Kraft.7629653a.png": "/innomationlive/static/media/Kraft.7629653a.png",
-    "static/media/Principles.module.scss": "/innomationlive/static/media/Vision.917a0570.png",
+    "static/media/Principles.module.scss": "/innomationlive/static/media/MVV2.aa46b999.png",
     "static/media/Mondelez.8eef92ca.png": "/innomationlive/static/media/Mondelez.8eef92ca.png",
     "static/media/Ontime.2e1685d2.png": "/innomationlive/static/media/Ontime.2e1685d2.png",
     "static/media/PLC.cc46b7ce.png": "/innomationlive/static/media/PLC.cc46b7ce.png",
@@ -47,8 +47,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.11242365.js",
-    "static/js/2.139a6fff.chunk.js",
-    "static/css/main.c850cdd7.chunk.css",
-    "static/js/main.a2233b0b.chunk.js"
+    "static/js/2.8e8d16cb.chunk.js",
+    "static/css/main.45fef711.chunk.css",
+    "static/js/main.cf1d85c4.chunk.js"
   ]
 }
