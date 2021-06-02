@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/innomationlive/static/css/main.45fef711.chunk.css",
-    "main.js": "/innomationlive/static/js/main.cf1d85c4.chunk.js",
-    "main.js.map": "/innomationlive/static/js/main.cf1d85c4.chunk.js.map",
+    "main.js": "/innomationlive/static/js/main.b2e60c27.chunk.js",
+    "main.js.map": "/innomationlive/static/js/main.b2e60c27.chunk.js.map",
     "runtime-main.js": "/innomationlive/static/js/runtime-main.11242365.js",
     "runtime-main.js.map": "/innomationlive/static/js/runtime-main.11242365.js.map",
     "static/js/2.8e8d16cb.chunk.js": "/innomationlive/static/js/2.8e8d16cb.chunk.js",
@@ -49,6 +49,6 @@
     "static/js/runtime-main.11242365.js",
     "static/js/2.8e8d16cb.chunk.js",
     "static/css/main.45fef711.chunk.css",
-    "static/js/main.cf1d85c4.chunk.js"
+    "static/js/main.b2e60c27.chunk.js"
   ]
 }
