@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/innomationlive/static/css/main.79631391.chunk.css",
-    "main.js": "/innomationlive/static/js/main.f6e76aea.chunk.js",
-    "main.js.map": "/innomationlive/static/js/main.f6e76aea.chunk.js.map",
+    "main.css": "/innomationlive/static/css/main.21702d3b.chunk.css",
+    "main.js": "/innomationlive/static/js/main.072f8ada.chunk.js",
+    "main.js.map": "/innomationlive/static/js/main.072f8ada.chunk.js.map",
     "runtime-main.js": "/innomationlive/static/js/runtime-main.11242365.js",
     "runtime-main.js.map": "/innomationlive/static/js/runtime-main.11242365.js.map",
-    "static/js/2.1d469251.chunk.js": "/innomationlive/static/js/2.1d469251.chunk.js",
-    "static/js/2.1d469251.chunk.js.map": "/innomationlive/static/js/2.1d469251.chunk.js.map",
+    "static/js/2.75d53cf7.chunk.js": "/innomationlive/static/js/2.75d53cf7.chunk.js",
+    "static/js/2.75d53cf7.chunk.js.map": "/innomationlive/static/js/2.75d53cf7.chunk.js.map",
     "index.html": "/innomationlive/index.html",
-    "static/css/main.79631391.chunk.css.map": "/innomationlive/static/css/main.79631391.chunk.css.map",
-    "static/js/2.1d469251.chunk.js.LICENSE.txt": "/innomationlive/static/js/2.1d469251.chunk.js.LICENSE.txt",
+    "static/css/main.21702d3b.chunk.css.map": "/innomationlive/static/css/main.21702d3b.chunk.css.map",
+    "static/js/2.75d53cf7.chunk.js.LICENSE.txt": "/innomationlive/static/js/2.75d53cf7.chunk.js.LICENSE.txt",
     "static/media/1.5c135a3a.png": "/innomationlive/static/media/1.5c135a3a.png",
     "static/media/2.23b2c1d3.png": "/innomationlive/static/media/2.23b2c1d3.png",
     "static/media/3.f6ef3a16.png": "/innomationlive/static/media/3.f6ef3a16.png",
@@ -40,12 +40,13 @@
     "static/media/logo-small.6f3992f5.png": "/innomationlive/static/media/logo-small.6f3992f5.png",
     "static/media/logo.86b19b22.jpg": "/innomationlive/static/media/logo.86b19b22.jpg",
     "static/media/phone-icon.f12b83b5.png": "/innomationlive/static/media/phone-icon.f12b83b5.png",
-    "static/media/themify-icons.css": "/innomationlive/static/media/themify.eda8b943.ttf"
+    "static/media/themify-icons.css": "/innomationlive/static/media/themify.eda8b943.ttf",
+    "static/media/Testimonials.module.scss": "/innomationlive/static/media/user.a6143582.png"
   },
   "entrypoints": [
     "static/js/runtime-main.11242365.js",
-    "static/js/2.1d469251.chunk.js",
-    "static/css/main.79631391.chunk.css",
-    "static/js/main.f6e76aea.chunk.js"
+    "static/js/2.75d53cf7.chunk.js",
+    "static/css/main.21702d3b.chunk.css",
+    "static/js/main.072f8ada.chunk.js"
   ]
 }
