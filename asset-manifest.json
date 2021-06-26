@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/innomationlive/static/css/main.1b5a0879.chunk.css",
-    "main.js": "/innomationlive/static/js/main.248be154.chunk.js",
-    "main.js.map": "/innomationlive/static/js/main.248be154.chunk.js.map",
+    "main.css": "/innomationlive/static/css/main.6c66a754.chunk.css",
+    "main.js": "/innomationlive/static/js/main.e924ef2f.chunk.js",
+    "main.js.map": "/innomationlive/static/js/main.e924ef2f.chunk.js.map",
     "runtime-main.js": "/innomationlive/static/js/runtime-main.11242365.js",
     "runtime-main.js.map": "/innomationlive/static/js/runtime-main.11242365.js.map",
     "static/js/2.5c19113b.chunk.js": "/innomationlive/static/js/2.5c19113b.chunk.js",
     "static/js/2.5c19113b.chunk.js.map": "/innomationlive/static/js/2.5c19113b.chunk.js.map",
     "index.html": "/innomationlive/index.html",
-    "static/css/main.1b5a0879.chunk.css.map": "/innomationlive/static/css/main.1b5a0879.chunk.css.map",
+    "static/css/main.6c66a754.chunk.css.map": "/innomationlive/static/css/main.6c66a754.chunk.css.map",
     "static/js/2.5c19113b.chunk.js.LICENSE.txt": "/innomationlive/static/js/2.5c19113b.chunk.js.LICENSE.txt",
     "static/media/1.5c135a3a.png": "/innomationlive/static/media/1.5c135a3a.png",
     "static/media/2.23b2c1d3.png": "/innomationlive/static/media/2.23b2c1d3.png",
@@ -55,7 +55,7 @@
   "entrypoints": [
     "static/js/runtime-main.11242365.js",
     "static/js/2.5c19113b.chunk.js",
-    "static/css/main.1b5a0879.chunk.css",
-    "static/js/main.248be154.chunk.js"
+    "static/css/main.6c66a754.chunk.css",
+    "static/js/main.e924ef2f.chunk.js"
   ]
 }
